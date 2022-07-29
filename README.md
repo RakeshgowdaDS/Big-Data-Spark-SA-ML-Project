@@ -17,5 +17,5 @@ The aforementioned models are trained on each batch of data.
 
 After training the models on the whole dataset we use them to predict the test batches.
 
-F1 score, precision, recall, and accuracy are calculated.
+F1 score, precision, recall, and accuracy are calculated. 
 
